@@ -51,8 +51,6 @@ return {
           dotfiles = false,
         },
       }
-
-      require('nvim-tree.api').tree.open()
     end,
   },
 }
